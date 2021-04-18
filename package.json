@@ -1,0 +1,17 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "@types/three": "^0.127.1",
+    "three": "^0.127.0"
+  }
+}
